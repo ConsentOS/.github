@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/logo.svg" alt="ConsentOS" width="260">
+  <img src="../assets/logo.svg" alt="ConsentOS" width="260">
 </p>
 
 <br />
